@@ -1,0 +1,5 @@
+cacti
+cache.cfg.out
+obj_dbg/
+
+memplex_configs/*.out
